@@ -37,7 +37,7 @@
 ### 📱 [Muslim+](#)  
 A Flutter-based app integrating **prayer times, Quran audio, and offline features**.  
 🔹 Firebase Auth + Firestore + Hive for offline-first experience.  
-🎥 [Demo Video](#) | 💻 [Source Code](#)  
+🎥 [Demo Video](#) | 💻 [Source Code](https://github.com/Phnix01/muslim_new.git)  
 
 ### 🎬 [Movie Recommendation System](#)  
 AI-powered movie recommender using the **MovieLens dataset** with Streamlit.  
@@ -47,7 +47,7 @@ AI-powered movie recommender using the **MovieLens dataset** with Streamlit.
 ### 🛒 [Wadata Market](#)  
 Prototype of an **e-commerce app** with cart & checkout system.  
 🔹 Built with Flutter & Firebase backend.  
-🎥 [Demo Video](#) | 💻 [Source Code](#)  
+🎥 [Demo Video](#) | 💻 [Source Code](https://github.com/Phnix01/wadata_market_v1.git)  
 
 ---
 
