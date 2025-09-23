@@ -20,12 +20,15 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DA544?style=for-the-badge)
 
 ---
 
@@ -48,6 +51,15 @@ Prototype of an **e-commerce app** with cart & checkout system.
 
 ---
 
+---
+
+## 🎨 UX / UI Philosophy — *Breakthrough UX*
+- **Design principle**: clarity first → minimum cognitive load, maximum delight.  
+- **Breakthrough UX** = combine data-driven decisions (analytics + user testing) with design patterns that scale across devices.  
+- Deliverables I provide: component-based Design System (Figma), interactive prototypes, micro-interactions, accessibility checks, and performance budgets for mobile.
+
+---
+
 ## 📊 GitHub Stats  
 
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarfarouk&show_icons=true&theme=radical)  
@@ -62,4 +74,11 @@ Prototype of an **e-commerce app** with cart & checkout system.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 
 ---
-✨ *“High achievers don’t wait for opportunities, they build them.”*  
+## 🤝 Open to
+- Remote & hybrid roles (Flutter / Full-stack).  
+- Freelance contracts & product partnerships.  
+- Mentoring & code reviews for teams.
+
+---
+
+> ✨ *“I build product-grade software with the discipline of research and the speed of a startup.”*  
