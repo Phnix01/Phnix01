@@ -37,7 +37,7 @@
 ### 📱 [Muslim+](#)  
 A Flutter-based app integrating **prayer times, Quran audio, and offline features**.  
 🔹 Firebase Auth + Firestore + Hive for offline-first experience.  
-🎥 [Demo Video](#) | 💻 [Source Code](https://github.com/Phnix01/muslim_new.git)  
+🎥 [Demo Video](#) | 💻 [Source Code](https://github.com/Phnix01/Muslim-.git)  
 
 ### 🎬 [Movie Recommendation System](#)  
 AI-powered movie recommender using the **MovieLens dataset** with Streamlit.  
