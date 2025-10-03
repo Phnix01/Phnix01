@@ -62,8 +62,8 @@ Prototype of an **e-commerce app** with cart & checkout system.
 
 ## 📊 GitHub Stats  
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarfarouk&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarouk&layout=compact&theme=radical)  
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phnix01&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phnix01&layout=compact&theme=radical)  
 
 ---
 
